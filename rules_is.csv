@@ -1,0 +1,25 @@
+﻿rule,r_ips,r_iq,r_minat,r_output
+R1,Rendah,bawah_rata_rata,Tidak,Kurang Sesuai
+R2,Rendah,bawah_rata_rata,Minat,Kurang Sesuai
+R3,Rendah,rata_rata,Tidak,Kurang Sesuai
+R4,Rendah,rata_rata,Minat,Kurang Sesuai
+R5,Rendah,atas_rata_rata,Tidak,Kurang Sesuai
+R6,Rendah,atas_rata_rata,Minat,Kurang Sesuai
+R7,Rendah,superior,Tidak,Kurang Sesuai
+R8,Rendah,superior,Minat,Kurang Sesuai
+R9,Sedang,bawah_rata_rata,Tidak,Kurang Sesuai
+R10,Sedang,bawah_rata_rata,Minat,Kurang Sesuai
+R11,Sedang,rata_rata,Tidak,Kurang Sesuai
+R12,Sedang,rata_rata,Minat,Sesuai
+R13,Sedang,atas_rata_rata,Tidak,Sesuai
+R14,Sedang,atas_rata_rata,Minat,Sesuai
+R15,Sedang,superior,Tidak,Sesuai
+R16,Sedang,superior,Minat,Sesuai
+R17,Tinggi,bawah_rata_rata,Tidak,Kurang Sesuai
+R18,Tinggi,bawah_rata_rata,Minat,Sesuai
+R19,Tinggi,rata_rata,Tidak,Sesuai
+R20,Tinggi,rata_rata,Minat,Sangat Sesuai
+R21,Tinggi,atas_rata_rata,Tidak,Sesuai
+R22,Tinggi,atas_rata_rata,Minat,Sangat Sesuai
+R23,Tinggi,superior,Tidak,Sesuai
+R24,Tinggi,superior,Minat,Sangat Sesuai

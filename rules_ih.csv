@@ -1,0 +1,73 @@
+﻿rule,r_bahasa_indonesia,r_bahasa_inggris,r_iq,r_minat,r_output
+R1,Rendah,Rendah,bawah_rata_rata,Tidak,Kurang Sesuai
+R2,Rendah,Rendah,rata_rata,Tidak,Kurang Sesuai
+R3,Rendah,Rendah,atas_rata_rata,Tidak,Kurang Sesuai
+R4,Rendah,Rendah,superior,Tidak,Kurang Sesuai
+R5,Rendah,Sedang,bawah_rata_rata,Tidak,Kurang Sesuai
+R6,Rendah,Sedang,rata_rata,Tidak,Kurang Sesuai
+R7,Rendah,Sedang,atas_rata_rata,Tidak,Kurang Sesuai
+R8,Rendah,Sedang,superior,Tidak,Kurang Sesuai
+R9,Rendah,Tinggi,bawah_rata_rata,Tidak,Kurang Sesuai
+R10,Rendah,Tinggi,rata_rata,Tidak,Kurang Sesuai
+R11,Rendah,Tinggi,atas_rata_rata,Tidak,Kurang Sesuai
+R12,Rendah,Tinggi,superior,Tidak,Kurang Sesuai
+R13,Sedang,Rendah,bawah_rata_rata,Tidak,Kurang Sesuai
+R14,Sedang,Rendah,rata_rata,Tidak,Kurang Sesuai
+R15,Sedang,Rendah,atas_rata_rata,Tidak,Kurang Sesuai
+R16,Sedang,Rendah,superior,Tidak,Kurang Sesuai
+R17,Sedang,Sedang,bawah_rata_rata,Tidak,Kurang Sesuai
+R18,Sedang,Sedang,rata_rata,Tidak,Kurang Sesuai
+R19,Sedang,Sedang,atas_rata_rata,Tidak,Sesuai
+R20,Sedang,Sedang,superior,Tidak,Sesuai
+R21,Sedang,Tinggi,bawah_rata_rata,Tidak,Kurang Sesuai
+R22,Sedang,Tinggi,rata_rata,Tidak,Kurang Sesuai
+R23,Sedang,Tinggi,atas_rata_rata,Tidak,Sesuai
+R24,Sedang,Tinggi,superior,Tidak,Sesuai
+R25,Tinggi,Rendah,bawah_rata_rata,Tidak,Kurang Sesuai
+R26,Tinggi,Rendah,rata_rata,Tidak,Kurang Sesuai
+R27,Tinggi,Rendah,atas_rata_rata,Tidak,Kurang Sesuai
+R28,Tinggi,Rendah,superior,Tidak,Kurang Sesuai
+R29,Tinggi,Sedang,bawah_rata_rata,Tidak,Kurang Sesuai
+R30,Tinggi,Sedang,rata_rata,Tidak,Kurang Sesuai
+R31,Tinggi,Sedang,atas_rata_rata,Tidak,Sesuai
+R32,Tinggi,Sedang,superior,Tidak,Sesuai
+R33,Tinggi,Tinggi,bawah_rata_rata,Tidak,Kurang Sesuai
+R34,Tinggi,Tinggi,rata_rata,Tidak,Kurang Sesuai
+R35,Tinggi,Tinggi,atas_rata_rata,Tidak,Sesuai
+R36,Tinggi,Tinggi,superior,Tidak,Sesuai
+R37,Rendah,Rendah,bawah_rata_rata,Minat,Kurang Sesuai
+R38,Rendah,Rendah,rata_rata,Minat,Kurang Sesuai
+R39,Rendah,Rendah,atas_rata_rata,Minat,Kurang Sesuai
+R40,Rendah,Rendah,superior,Minat,Kurang Sesuai
+R41,Rendah,Sedang,bawah_rata_rata,Minat,Kurang Sesuai
+R42,Rendah,Sedang,rata_rata,Minat,Kurang Sesuai
+R43,Rendah,Sedang,atas_rata_rata,Minat,Kurang Sesuai
+R44,Rendah,Sedang,superior,Minat,Kurang Sesuai
+R45,Rendah,Tinggi,bawah_rata_rata,Minat,Kurang Sesuai
+R46,Rendah,Tinggi,rata_rata,Minat,Kurang Sesuai
+R47,Rendah,Tinggi,atas_rata_rata,Minat,Kurang Sesuai
+R48,Rendah,Tinggi,superior,Minat,Kurang Sesuai
+R49,Sedang,Rendah,bawah_rata_rata,Minat,Kurang Sesuai
+R50,Sedang,Rendah,rata_rata,Minat,Kurang Sesuai
+R51,Sedang,Rendah,atas_rata_rata,Minat,Kurang Sesuai
+R52,Sedang,Rendah,superior,Minat,Kurang Sesuai
+R53,Sedang,Sedang,bawah_rata_rata,Minat,Kurang Sesuai
+R54,Sedang,Sedang,rata_rata,Minat,Sesuai
+R55,Sedang,Sedang,atas_rata_rata,Minat,Sesuai
+R56,Sedang,Sedang,superior,Minat,Sesuai
+R57,Sedang,Tinggi,bawah_rata_rata,Minat,Sesuai
+R58,Sedang,Tinggi,rata_rata,Minat,Sesuai
+R59,Sedang,Tinggi,atas_rata_rata,Minat,Sesuai
+R60,Sedang,Tinggi,superior,Minat,Sesuai
+R61,Tinggi,Rendah,bawah_rata_rata,Minat,Kurang Sesuai
+R62,Tinggi,Rendah,rata_rata,Minat,Kurang Sesuai
+R63,Tinggi,Rendah,atas_rata_rata,Minat,Kurang Sesuai
+R64,Tinggi,Rendah,superior,Minat,Kurang Sesuai
+R65,Tinggi,Sedang,bawah_rata_rata,Minat,Sesuai
+R66,Tinggi,Sedang,rata_rata,Minat,Sesuai
+R67,Tinggi,Sedang,atas_rata_rata,Minat,Sesuai
+R68,Tinggi,Sedang,superior,Minat,Sesuai
+R69,Tinggi,Tinggi,bawah_rata_rata,Minat,Sesuai
+R70,Tinggi,Tinggi,rata_rata,Minat,Sangat Sesuai
+R71,Tinggi,Tinggi,atas_rata_rata,Minat,Sangat Sesuai
+R72,Tinggi,Tinggi,superior,Minat,Sangat Sesuai
